@@ -10,7 +10,7 @@ const person = {
 
 console.log(person.lastName);
 
-//Braket
+//Braket notation
 
 console.log(person['lastName']);
 
